@@ -74,3 +74,8 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 
 </footer>
 print("Prvý príkaz")
+print("Toto je nadpis druhej úrovne")
+print("normálny text")
+print("položka 1")
+print("položka 2")
+print("položka 3")
